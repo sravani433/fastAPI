@@ -1,0 +1,5 @@
+myenv/
+__pycache__/
+.env
+aws
+awscliv2.zip
